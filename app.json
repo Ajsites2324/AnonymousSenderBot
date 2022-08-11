@@ -8,7 +8,7 @@
     "python",
     "pyrogram"
   ],
-  "repository": "https://github.com/StarkBotsIndustries/AnonymousSenderBot",
+  "repository": "https://github.com/Ajsites2324/AnonymousSenderBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
